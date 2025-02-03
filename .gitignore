@@ -1,0 +1,4 @@
+# Dependency directories
+node_modules/
+Server/node_modules/
+todolist/node_modules/
